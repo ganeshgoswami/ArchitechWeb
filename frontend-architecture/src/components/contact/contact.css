@@ -1,0 +1,32 @@
+.contactcategory{
+    width: 100%;
+    
+    background-color: white;
+
+}
+
+.routeofcategory{
+    width: 100%;
+
+    
+}
+.border-on-hover {
+    
+    
+    color:black;
+    border: none;
+    padding: 5px 20px;
+    font-size: 16px;
+    cursor: pointer;
+    transition: border 0.3s ease-out; 
+    
+  }
+
+
+ form  button{
+    background-color: rgb(102, 102, 102);
+    border: none;
+  }
+  
+ 
+
